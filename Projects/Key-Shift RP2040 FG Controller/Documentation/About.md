@@ -2,7 +2,8 @@ My plan is to use the opensource picoboard to make a customisable, responsive fi
 
 Initial Render
 
-![Initial Render.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/0ae1962c-3cbe-4d08-b6cb-420d8f613099/Initial_Render.png)
+![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/8c26f5ec-256e-449e-85ed-5b7d785d871d)
+
 
 # Scope
 
@@ -58,16 +59,16 @@ Initial Render
 
 # Fusion 360 Base Render
 
-![Base.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/5c1d3956-00b7-49ee-9bb2-a46ba07713b7/Base.png)
+![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/8e42d65b-6d9e-4a02-9a0b-711893b2db84)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/6a778aee-cd3f-4b5c-9fa0-6d8778c80cb4/Untitled.png)
+![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/f337c831-4920-46c9-8ed7-6102a283b883)
 
 ## Top Plate Sketch
 
-![Top Cover Sketch.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/08f4ef25-fbad-408e-809d-69ff1ad7d144/Top_Cover_Sketch.png)
+![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/c33eff03-43b8-4c8d-979a-1bf875c63397)
 
 # Customised Renders
 
-![Cammy-1.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/7d9238c2-1246-40ae-887f-771713084ae3/Cammy-1.png)
+![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/94a6da66-2eff-4013-a683-214c9417c56a)
 
-![Chun-1.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/9e9cc626-ac72-4a26-8054-288aaf4004e8/Chun-1.png)
+![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/886e8965-e546-4659-beb4-6bf789b7cbd2)
