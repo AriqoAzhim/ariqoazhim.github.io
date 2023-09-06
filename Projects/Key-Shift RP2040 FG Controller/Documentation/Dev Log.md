@@ -23,8 +23,7 @@
 - Design Light Guides for Player LEDs
 
 # Fitment Test
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/62b01d7a-a36a-44af-905a-5128a9c87530/Untitled.png)
+![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/fe6dc3b2-d358-4827-9d82-759198a5e46a)
 
 # Acrylic Plate Test
 
