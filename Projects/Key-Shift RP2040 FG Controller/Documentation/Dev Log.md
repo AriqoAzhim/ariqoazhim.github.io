@@ -21,6 +21,10 @@
 - Replace PCB Nuts with Brass inserts
 - Increase Outer belt screw hole size
 - Design Light Guides for Player LEDs
+- Add Alignment pillars on the Outer Belts for easier Screwing
+- Re align PCB Standoffs in Base (Top 2 are misaligned)
+- Test magnets in Base
+- Brainstorm ways to make device feel more premium/durable
 
 # Fitment Test
 ![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/74a8e8a8-b89a-4031-bc24-10cadd4279da)
