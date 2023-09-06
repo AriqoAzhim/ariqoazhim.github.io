@@ -31,30 +31,32 @@
 
 # Key Mapping Test
 
-![image](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/66eb71e6-386f-4d13-a459-6e85acf5fb4b/Untitled.png)
+![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/72ce313f-10eb-4d6f-8caa-c4ab1bac9290)
 
-![20230905_074537.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/f5616d86-3592-4fb7-9097-1cb3bb5579db/20230905_074537.jpg)
+![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/1fd11b0f-7308-4e0a-9923-2ac8a377f6a4)
 
-![20230905_074547.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/52c566ad-ea45-4525-9991-8642b221e495/20230905_074547.jpg)
+![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/0d428154-76a1-4aa9-8f4f-f72758ad5ef9)
 
 # Acrylic Plate Art Test
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/7e3e89cc-8de3-4db7-9d94-836a32a0ea93/Untitled.png)
+![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/d65f423d-bde7-4612-9bac-fbcc52dd37c7)
+
 
 # PCB
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/fd4415ae-47d1-4735-9b1a-0e1e385edb12/Untitled.png)
+![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/774a8ffc-d8b3-451c-8031-a26091c15378)
 
-![20230903_171613.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/833620c5-603e-426a-acf1-ab47920b2262/20230903_171613.jpg)
+![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/f8a62f92-aeed-456f-959d-acd52b74e714)
+
 
 # First Prototype
 
-![20230905_075733.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/54829f68-db8f-4982-9546-e201a098c6e0/20230905_075733.jpg)
+![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/f8bb06cd-439c-4782-bf87-744fccc1ad74)
+![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/0fb09ba2-c9e8-447e-b9f7-4493e4965eb0)
+![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/f083db92-df5d-4cbf-a819-66473fcf8882)
+![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/4178aeaf-f5b6-40c0-86e9-36836717b0c0)
+![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/1a124fa8-b656-43f0-815e-00e6150f7f1e)
 
-![20230905_074016.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/5035779e-a1d4-4cc8-9d66-442ee25487fc/20230905_074016.jpg)
 
-![20230905_074002.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/f0c37ca5-8a0b-46e9-aa3a-ef0234777f80/20230905_074002.jpg)
 
-![20230905_074122.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/18260925-40e4-45de-b14b-52a153863609/20230905_074122.jpg)
 
-![20230905_073954.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/3ea42e54-02e1-4044-8181-a27122713d7a/20230905_073954.jpg)
