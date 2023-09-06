@@ -23,15 +23,15 @@
 - Design Light Guides for Player LEDs
 
 # Fitment Test
-![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/fe6dc3b2-d358-4827-9d82-759198a5e46a)
+![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/74a8e8a8-b89a-4031-bc24-10cadd4279da)
+
 
 # Acrylic Plate Test
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/6d1cb12d-b00d-4056-ae59-02eb37a3fbc5/Untitled.png)
+![image](https://github.com/AriqoAzhim/ariqoazhim.github.io/assets/55651970/5bfe2a01-7c79-43ff-8d2f-8e5a020b8c62)
 
 # Key Mapping Test
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/66eb71e6-386f-4d13-a459-6e85acf5fb4b/Untitled.png)
+![image](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/66eb71e6-386f-4d13-a459-6e85acf5fb4b/Untitled.png)
 
 ![20230905_074537.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/42d1c9ef-3bda-4041-8e41-d6d5c87c9da4/f5616d86-3592-4fb7-9097-1cb3bb5579db/20230905_074537.jpg)
 
